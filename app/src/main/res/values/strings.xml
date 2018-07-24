@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImrediTest</string>
+    <string name="main_activity">Главная страница</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_login">Введите имя пользователя</string>
+    <string name="str_password">Введите пароль</string>
+    <string name="str_enter">Войти</string>
+    <string name="error">Ошибка</string>
+    <string name="credentials">Константин Петров</string>
+    <string name="role">Тестовый пользователь</string>
+</resources>
